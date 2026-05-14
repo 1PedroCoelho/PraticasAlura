@@ -1,0 +1,14 @@
+G:\Programação\Alura\AluraPratica\obj\Debug\net10.0\AluraPratica.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programação\Alura\AluraPratica\obj\Debug\net10.0\AluraPratica.AssemblyInfoInputs.cache
+G:\Programação\Alura\AluraPratica\obj\Debug\net10.0\AluraPratica.AssemblyInfo.cs
+G:\Programação\Alura\AluraPratica\obj\Debug\net10.0\AluraPratica.csproj.CoreCompileInputs.cache
+G:\Programação\Alura\AluraPratica\bin\Debug\net10.0\AluraPratica.exe
+G:\Programação\Alura\AluraPratica\bin\Debug\net10.0\AluraPratica.deps.json
+G:\Programação\Alura\AluraPratica\bin\Debug\net10.0\AluraPratica.runtimeconfig.json
+G:\Programação\Alura\AluraPratica\bin\Debug\net10.0\AluraPratica.dll
+G:\Programação\Alura\AluraPratica\bin\Debug\net10.0\AluraPratica.pdb
+G:\Programação\Alura\AluraPratica\obj\Debug\net10.0\AluraPratica.dll
+G:\Programação\Alura\AluraPratica\obj\Debug\net10.0\refint\AluraPratica.dll
+G:\Programação\Alura\AluraPratica\obj\Debug\net10.0\AluraPratica.pdb
+G:\Programação\Alura\AluraPratica\obj\Debug\net10.0\AluraPratica.genruntimeconfig.cache
+G:\Programação\Alura\AluraPratica\obj\Debug\net10.0\ref\AluraPratica.dll
