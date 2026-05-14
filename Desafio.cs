@@ -24,17 +24,15 @@ class Episodio
     List<string> convidados = new List<string>();
     public int duracao;
     public int ordem;
-    public string Resumo
-    {
-        get
-        {
-            return 
-            $"Número:{ordem} | Título: {titulo} |Duração: {duracao} | Convidados {string.Join(", ", convidados)} ";
-        }
-        set;
-    }
+    public string Resumo => $"Número:{ordem} | Título: {titulo} |Duração: {duracao} | Convidados {string.Join(", ", convidados)} ";
     //numero, titulo, duraçao e resumo
     public string titulo;
+    public Episodio(int ordem, int duracao, string titulo)
+    {
+       this.ordem= ordem;
+       this.duracao= duracao;
+       this.titulo= titulo;
+    }
 
     public void AdicionarConvidados(string nome)
     {
@@ -45,7 +43,10 @@ class Program
 {
     static void Main()
     {
-        Podcast P = new Podcast(Pedro, Pedrocast);
+        Episodio ep1 = new(1, 45,"Pedro1");
+        ep1.AdicionarConvidados("Sara");
+        System.Console.WriteLine(ep1.Resumo); 
+        Podcast P = new Podcast("Pedro", "Pedrocast");
         
     }
 }

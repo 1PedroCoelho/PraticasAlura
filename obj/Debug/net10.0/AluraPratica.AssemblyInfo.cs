@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AluraPratica")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1991dac0ec73be88a9f1d8430ee04d85256f579a")]
 [assembly: System.Reflection.AssemblyProductAttribute("AluraPratica")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AluraPratica")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

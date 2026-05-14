@@ -40,6 +40,7 @@ class Produto
         this.codigo=codigo;
     }
 }
+/*
 class Program
 {
     public static void Main()
@@ -64,4 +65,4 @@ class Program
 
         estoque.ExibirProdutos();
     }
-}
+}*/
