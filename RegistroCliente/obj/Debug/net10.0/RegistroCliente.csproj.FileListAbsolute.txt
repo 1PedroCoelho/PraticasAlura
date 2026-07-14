@@ -1,0 +1,15 @@
+G:\Programação\Alura\RegistroCliente\bin\Debug\net10.0\RegistroCliente.exe
+G:\Programação\Alura\RegistroCliente\bin\Debug\net10.0\RegistroCliente.deps.json
+G:\Programação\Alura\RegistroCliente\bin\Debug\net10.0\RegistroCliente.runtimeconfig.json
+G:\Programação\Alura\RegistroCliente\bin\Debug\net10.0\RegistroCliente.dll
+G:\Programação\Alura\RegistroCliente\bin\Debug\net10.0\RegistroCliente.pdb
+G:\Programação\Alura\RegistroCliente\obj\Debug\net10.0\RegistroCliente.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programação\Alura\RegistroCliente\obj\Debug\net10.0\RegistroCliente.AssemblyInfoInputs.cache
+G:\Programação\Alura\RegistroCliente\obj\Debug\net10.0\RegistroCliente.AssemblyInfo.cs
+G:\Programação\Alura\RegistroCliente\obj\Debug\net10.0\RegistroCliente.csproj.CoreCompileInputs.cache
+G:\Programação\Alura\RegistroCliente\obj\Debug\net10.0\RegistroCliente.sourcelink.json
+G:\Programação\Alura\RegistroCliente\obj\Debug\net10.0\RegistroCliente.dll
+G:\Programação\Alura\RegistroCliente\obj\Debug\net10.0\refint\RegistroCliente.dll
+G:\Programação\Alura\RegistroCliente\obj\Debug\net10.0\RegistroCliente.pdb
+G:\Programação\Alura\RegistroCliente\obj\Debug\net10.0\RegistroCliente.genruntimeconfig.cache
+G:\Programação\Alura\RegistroCliente\obj\Debug\net10.0\ref\RegistroCliente.dll
